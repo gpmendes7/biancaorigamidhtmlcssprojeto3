@@ -1,0 +1,7 @@
+azure	#F0FFFF	rgb(240,255,255)
+
+darkturquoise	#00CED1	rgb(0,206,209)
+
+turquoise	#40E0D0	rgb(64,224,208)
+
+aliceblue	#F0F8FF	rgb(240,248,255)
